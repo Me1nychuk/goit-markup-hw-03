@@ -243,6 +243,7 @@ img {
   justify-content: center;
   align-items: center;
   margin: 32px auto;
+  padding: 32px 0;
 }
 
 /* section_04  */
@@ -250,6 +251,7 @@ img {
 /* footer */
 .footer {
   background: var(--navyblue);
+  padding: 100px 0;
 }
 .logo-second-two {
   color: #f4f4fd;
@@ -260,4 +262,8 @@ img {
   font-weight: 400;
   line-height: 24px; /* 150% */
   letter-spacing: 0.32px;
+}
+.footer a {
+  display: inline-block;
+  margin-bottom: 16px;
 }
