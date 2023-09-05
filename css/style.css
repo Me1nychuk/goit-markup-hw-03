@@ -178,9 +178,7 @@ img {
 .section-second {
   background: #fff;
 }
-.second-s-title {
-  margin-bottom: 8px;
-}
+
 .section-second-list {
   display: flex;
   gap: 24px;
@@ -192,7 +190,6 @@ img {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
-  gap: 8px;
 }
 .section-h-third {
   color: var(--navyblue);
@@ -200,6 +197,7 @@ img {
   font-weight: 500;
   letter-spacing: 0.4px;
   line-height: 1.2;
+  margin-bottom: 8px;
 }
 .section-list-text {
   color: var(--slate);
