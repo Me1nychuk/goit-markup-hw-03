@@ -307,7 +307,7 @@ img {
 .footer a {
   margin-bottom: 16px;
 }
-.footer a.logo {
+.link-footer {
   display: inline-block;
 }
 .footer-text {
