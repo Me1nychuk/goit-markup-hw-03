@@ -304,6 +304,6 @@ img {
 .footer a {
   margin-bottom: 16px;
 }
-.footer .logo {
+.footer a.logo {
   display: inline-block;
 }
