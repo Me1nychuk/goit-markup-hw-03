@@ -8,6 +8,7 @@ body {
   font-family: "Roboto", sans-serif;
   background: #fff;
   color: var(--slate);
+  width: 1440px;
 }
 a {
   text-decoration: none;
@@ -16,23 +17,22 @@ a {
 ul li {
   list-style-type: none;
 }
+img {
+  display: block;
+}
 .container {
   width: 1158px;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
 /* header */
 .header {
   background: #fff;
   display: flex;
-  width: 1440px;
+
   height: 72px;
-  justify-content: center;
-  align-items: center;
-  flex-shrink: 0;
   border-bottom: 1px solid var(--CORNFLOWER, #e7e9fc);
   background: var(--WHITE, #fff);
 }
