@@ -178,6 +178,9 @@ img {
 .section-second {
   background: #fff;
 }
+.second-s-title {
+  margin-bottom: 8px;
+}
 .section-second-list {
   display: flex;
   gap: 24px;
@@ -186,7 +189,7 @@ img {
   font-style: normal;
   line-height: 24px;
   display: flex;
-  max-width: 264px;
+  width: calc((100% - 72px) / 4);
   flex-direction: column;
   align-items: flex-start;
   gap: 8px;
