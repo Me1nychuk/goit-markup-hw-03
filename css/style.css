@@ -306,10 +306,9 @@ img {
 }
 .footer a {
   margin-bottom: 16px;
-}
-.link-footer {
   display: inline-block;
 }
+
 .footer-text {
   max-width: 264px;
 }
