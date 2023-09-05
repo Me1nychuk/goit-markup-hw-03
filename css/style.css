@@ -188,7 +188,6 @@ img {
   line-height: 24px;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .section-h-third {
