@@ -308,7 +308,9 @@ img {
   margin-bottom: 16px;
   display: inline-block;
 }
-
+.footer .container {
+  display: block;
+}
 .footer-text {
   max-width: 264px;
 }
