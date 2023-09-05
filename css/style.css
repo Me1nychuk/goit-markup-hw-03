@@ -291,6 +291,9 @@ img {
   background: var(--navyblue);
   padding: 100px 0;
 }
+.footer .container {
+  flex-direction: column;
+}
 .logo-second-two {
   color: #f4f4fd;
 }
@@ -306,4 +309,7 @@ img {
 }
 .footer a.logo {
   display: inline-block;
+}
+.footer-text {
+  max-width: 264px;
 }
